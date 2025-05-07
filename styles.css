@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f4f4f5;
+  color: #1e1e1e;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+header {
+  text-align: center;
+  padding: 2rem 1rem;
+  background: #ffffff;
+  border-bottom: 2px solid #f0f0f0;
+  animation: fadeInUp 0.6s ease-out;
+}
+
+header img {
+  max-width: 180px;
+  height: auto;
+  opacity: 0.9;
+}
+
+main {
+  flex: 1;
+  padding: 2rem 1rem;
+  max-width: 720px;
+  margin: auto;
+  animation: fadeInUp 0.8s ease-out;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  color: #ea5b0c;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 1.5rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  text-align: justify;
+  color: #333;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 2rem 0;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+  animation: fadeInUp 1s ease-out;
+}
+
+.card {
+  background: linear-gradient(135deg, #fa7236, #f9a77a);
+  border-radius: 16px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.08);
+}
+
+.card a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.05rem;
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.card a:hover {
+  transform: scale(1.02);
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #fafafa;
+  font-size: 0.9rem;
+  color: #777;
+  border-top: 1px solid #e2e2e2;
+  animation: fadeInUp 1.2s ease-out;
+}
+
+footer a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #0ea2f9;
+  transition: color 0.2s;
+}
+
+footer a:hover {
+  color: #0d7fc8;
+  text-decoration: underline;
+}
+
+@media (min-width: 600px) {
+  .card-container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .card {
+    width: 48%;
+  }
+}
