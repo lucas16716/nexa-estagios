@@ -21,7 +21,7 @@ Página desenvolvida para divulgação temporária de oportunidades de estágio 
 - 🌐 <a href="https://estagiosnexa.vercel.app/">Vercel deploy</a>
 - 🖼️ Imagens do Projeto:
 
-<div>
+<div align="center">
    <a target="_blank" href="https://estagiosnexa.vercel.app/">
    <img href="https://estagiosnexa.vercel.app/" src="./assets/img/Captura de Tela.png">
    </a>
