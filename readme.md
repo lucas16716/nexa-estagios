@@ -42,7 +42,7 @@ Página desenvolvida para divulgação temporária de oportunidades de estágio 
 - **HTML5:** Estrutura e conteúdo do site;
 - **CSS3:** Estilização visual e responsividade;
 - **Git/GitHub:** Versionamento e hospedagem do código-fonte;
-- **Vercel:** Plataforma de deploy para o ambiente de produção;
+- **Vercel:** Plataforma de deploy para o ambiente de produção.
 
 ---
 
@@ -52,8 +52,8 @@ Página desenvolvida para divulgação temporária de oportunidades de estágio 
 📁 nexa-estagios
 ├── 📁 assets
 │   ├── 📂 docs     # Documentos do projeto
-│   │── 📂 img      # Imagens do projeto
-│── style.css        # Código CSS para estilização
+│   ├── 📂 img      # Imagens do projeto
+├── style.css        # Código CSS para estilização
 ├── index.html       # Página principal do site
 └── README.md        # Documentação
 
@@ -86,4 +86,4 @@ open index.html
 ---
 
 <h2>🧑🏻‍💻 AUTOR</h2> 
-<p>Desenvolvido por <a href="https://lucaslinkverse.vercel.app/">Lucas Code</a> como colaboração para a participação da Nexa em eventos de empregabilidade.</p>
+<p>Desenvolvido por <a href="https://lucaslinkverse.vercel.app/">Lucas Code</a> como colaboração para a participação da Nexa em eventos de empregabilidade</p>
