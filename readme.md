@@ -86,4 +86,4 @@ open index.html
 ---
 
 <h2>🧑🏻‍💻 AUTOR</h2> 
-<p>Desenvolvido por <a href="https://lucaslinkverse.vercel.app/">Lucas Code</a> como colaboração para a participação da Nexa em eventos de empregabilidade</p>
+<p>Desenvolvido por <a href="https://bio.site/lucascode">Lucas Code</a> como colaboração para a participação da Nexa em eventos de empregabilidade</p>
