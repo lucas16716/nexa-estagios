@@ -1,12 +1,14 @@
-<h1 align="center">Portal de Estágios • Nexa 💼</h1>
+<h1 align="center">Programa de Estágios • Nexa 💼</h1>
 
 <div>
   
-[![Status](https://img.shields.io/badge/Status-Finalizado-orange)]()
+[![License](https://img.shields.io/badge/Licença-MIT-blue)](./LICENSE)&nbsp;&nbsp;
+[![Status](https://img.shields.io/badge/Status-Finalizado-orange)]()&nbsp;&nbsp;
+[![Deploy Status](https://img.shields.io/badge/Deploy-Oficial-black)](https://estagiosnexa.vercel.app/)
 
 </div>
 
-Página desenvolvida para divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade, com o objetivo de atrair candidatos para vagas remanescentes de processos seletivos. O site foi construído com HTML e CSS, focando em acessibilidade, clareza e praticidade, facilitando o acesso às informações das vagas e o cadastro dos candidatos por meio de um formulário conectado, facilitando o encaminhamento dos interessados.
+> Página desenvolvida para divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade. O objetivo é atrair candidatos para vagas remanescentes, oferecendo um guia claro e prático sobre as oportunidades e facilitando o cadastro via formulário, agilizando a captação inicial. Foco em acessibilidade e clareza para todos os públicos.
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -32,17 +34,17 @@ Página desenvolvida para divulgação temporária de oportunidades de estágio 
 
 <h2 id="funcionalidades">FUNCIONALIDADES</h2>
 
-- 📢 Texto de apresentação do projeto;
-- 🔗 Links diretos para acesso ao PDF com a descrição das vagas de estágio e formulário para confirmação de candidatura;
-- 💡 Design simples e direta para facilitar a navegação;
-- 📱 Layout responsivo adaptado a todos os tipos de dispositivos.
+- 📢 Texto de apresentação claro sobre o programa de estágios;
+- 🔗 Links diretos para PDF de vagas e formulário de interesse;
+- 💡 Design simples e direto para facilitar a navegação rápida;
+- 📱 Layout responsivo adaptado a todos os dispositivos.
 
 <h2 id="tecnologias-e-ferramentas">TECNOLOGIAS E FERRAMENTAS</h2>
 
-- **HTML5:** Estrutura e conteúdo do site;
-- **CSS3:** Estilização visual e responsividade;
-- **Git/GitHub:** Versionamento e hospedagem do código-fonte;
-- **Vercel:** Plataforma de deploy para o ambiente de produção.
+- **HTML5 →** Estrutura semântica e acessível;
+- **CSS3 →** Estilização visual, animações sutis e responsividade (com Variáveis e BEM);
+- **Git/GitHub →** Controle de versionamento e hospedagem do código-fonte;
+- **Vercel →** Plataforma de deploy contínuo.
 
 ---
 
@@ -84,6 +86,9 @@ open index.html
 5. Abra um _Pull Request_.
 
 ---
+
+<h2>📄 LICENÇA</h2>
+<p>Este projeto está licenciado sob a licença MIT. Confira os detalhes na documentação oficial.</p>
 
 <h2>🧑🏻‍💻 AUTOR</h2> 
 <p>Desenvolvido por <a href="https://bio.site/lucascode">Lucas Code</a> como colaboração para a participação da Nexa em eventos de empregabilidade</p>

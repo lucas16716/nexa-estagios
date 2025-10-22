@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
   <meta charset="UTF-8" />
@@ -11,39 +11,51 @@
 </head>
 
 <body>
-  <header>
-    <img src="./assets/img/logo.png" alt="Logo da Nexa Recursos Humanos" />
+  <!-- Link de Acessibilidade -->
+  <a href="#main-content" class="skip-link">Pular para o conteúdo principal</a>
+
+  <!-- CABEÇALHO -->
+  <header class="site-header">
+    <img src="./assets/img/logo.png" alt="Logo da Nexa" class="site-header__logo" />
   </header>
 
-  <main>
-    <h1>Programa de Estágios Nexa</h1>
-    <p>
-      A Nexa é uma das maiores mineradoras do mundo e busca talentos que queiram transformar o futuro! Estamos engajados na construção de um ambiente onde todos possam crescer, com ações concretas voltadas ao desenvolvimento, bem-estar, diversidade e inclusão.
-    </p>
-    <p>
-      Nossos programas de estágio refletem esse compromisso: oferecemos oportunidades reais de aprendizado e protagonismo em uma cultura produtiva, colaborativa e humana. Aqui, acreditamos no potencial de transformação de cada pessoa.
-    </p>
-    <hr>
-    <p><strong>Confira abaixo as formas de se conectar com o processo seletivo:</strong></p>
+  <!-- CONTEÚDO PRINCIPAL -->
+  <main id="main-content" class="main-content">
+    <section class="intro-section">
+      <h1 class="intro-section__title">Programa de Estágios Nexa</h1>
+      <p class="intro-section__text">
+        A Nexa é uma das maiores mineradoras do mundo e busca talentos que queiram transformar o futuro! Estamos engajados na construção de um ambiente onde todos possam crescer, com ações concretas voltadas ao desenvolvimento, bem-estar, diversidade e inclusão.
+      </p>
+      <p class="intro-section__text">
+        Nossos programas de estágio refletem esse compromisso: oferecemos oportunidades reais de aprendizado e protagonismo em uma cultura produtiva, colaborativa e humana. Aqui, acreditamos no potencial de transformação de cada pessoa.
+      </p>
+    </section>
 
-    <div class="card-container">
-      <div class="card">
-        <a href="./assets/docs/Nexa - Estágios.pdf" aria-label="Baixar documento em PDF com vagas disponíveis" download>
-          📄 Confira aqui as vagas disponíveis (PDF)
-        </a>
+    <hr class="separator" />
+
+    <section class="cta-section" aria-labelledby="cta-title">
+      <h2 id="cta-title" class="cta-section__title">Confira abaixo as formas de se conectar com o processo seletivo:</h2>
+
+      <div class="card-list">
+        <div class="card">
+          <a href="./assets/docs/Nexa - Estágios.pdf" class="card__link" aria-label="Baixar documento em PDF com vagas disponíveis" download>
+            📄 Confira aqui as vagas disponíveis (PDF)
+          </a>
+        </div>
+        <div class="card">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScWvSaZl2DLmCXrOOHJf-uum027cBYjYZHuBfw4QZf_gSFp8Q/viewform?usp=sharing" target="_blank" class="card__link" rel="noopener noreferrer" aria-label="Preencher formulário de interesse nas vagas">
+            📝 Preencha o formulário de interesse
+          </a>
+        </div>
       </div>
-      <div class="card">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScWvSaZl2DLmCXrOOHJf-uum027cBYjYZHuBfw4QZf_gSFp8Q/viewform?usp=sharing" target="_blank" aria-label="Preencher formulário de interesse nas vagas">
-          📝 Preencha o formulário de interesse
-        </a>
-      </div>
-    </div>
+    </section>
   </main>
 
-  <footer>
+  <!-- RODAPÉ -->
+  <footer class="site-footer">
     Desenvolvido por
-    <a href="https://bio.site/lucascode" target="_blank">
-      Lucas <span style="color: #0d7fc8;">Code</span>
+    <a href="https://bio.site/lucascode" target="_blank" rel="noopener noreferrer" class="site-footer__link">
+      Lucas <span class="site-footer__link--accent">Code</span>
     </a>
   </footer>
 </body>
