@@ -8,8 +8,6 @@
 
 </div>
 
-Página desenvolvida para **divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade**. O objetivo é atrair candidatos para vagas remanescentes, oferecendo um **guia claro e prático sobre as oportunidades e facilitando o cadastro via formulário**, agilizando a captação inicial. Foco em acessibilidade e clareza para todos os públicos.
-
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,19 +16,10 @@ Página desenvolvida para **divulgação temporária de oportunidades de estági
 </p>
 
 <h2 id="projeto">PROJETO</h2>
-<h5>Acesse e confira o projeto em ação:</h5>
 
-- 🌐 <a href="https://estagiosnexa.vercel.app/">Vercel deploy</a>
-- 🖼️ Imagens do Projeto:
+Página desenvolvida para **divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade**. O objetivo é atrair candidatos para vagas remanescentes, oferecendo um **guia claro e prático sobre as oportunidades e facilitando o cadastro via formulário**, agilizando a captação inicial. Foco em acessibilidade e clareza para todos os públicos.
 
-<div align="center">
-   <a target="_blank" href="https://estagiosnexa.vercel.app/">
-   <img href="https://estagiosnexa.vercel.app/" src="./assets/img/Captura de Tela.png">
-   </a>
-   <a target="_blank" href="https://estagiosnexa.vercel.app/">
-   <img href="https://lucaslinkverse.vercel.app/" src="./assets/img/Captura de Tela 2.png">
-   </a>
- </div>
+🌐 <a href="https://estagiosnexa.vercel.app/">Acesso o site</a>
 
 <h2 id="funcionalidades">FUNCIONALIDADES</h2>
 
