@@ -8,7 +8,7 @@
 
 </div>
 
-> Página desenvolvida para divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade. O objetivo é atrair candidatos para vagas remanescentes, oferecendo um guia claro e prático sobre as oportunidades e facilitando o cadastro via formulário, agilizando a captação inicial. Foco em acessibilidade e clareza para todos os públicos.
+Página desenvolvida para **divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade**. O objetivo é atrair candidatos para vagas remanescentes, oferecendo um **guia claro e prático sobre as oportunidades e facilitando o cadastro via formulário**, agilizando a captação inicial. Foco em acessibilidade e clareza para todos os públicos.
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
