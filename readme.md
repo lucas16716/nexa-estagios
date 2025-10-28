@@ -19,7 +19,7 @@
 
 Página desenvolvida para **divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade**. O objetivo é atrair candidatos para vagas remanescentes, oferecendo um **guia claro e prático sobre as oportunidades e facilitando o cadastro via formulário**, agilizando a captação inicial. Foco em acessibilidade e clareza para todos os públicos.
 
-🌐 <a href="https://estagiosnexa.vercel.app/">Acesso o site</a>
+🌐 <a href="https://estagiosnexa.vercel.app/">Acesse o site</a>
 
 <h2 id="funcionalidades">FUNCIONALIDADES</h2>
 
