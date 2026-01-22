@@ -3,9 +3,7 @@
 <div>
   
 [![License](https://img.shields.io/badge/Licença-MIT-blue)](./LICENSE)&nbsp;&nbsp;
-[![Status](https://img.shields.io/badge/Status-Finalizado-orange)]()&nbsp;&nbsp;
-[![Deploy Status](https://img.shields.io/badge/Deploy-Oficial-black)](https://estagiosnexa.vercel.app/)
-
+[![Status](https://img.shields.io/badge/Status-Finalizado-orange)]()
 </div>
 
 <p align="center">
