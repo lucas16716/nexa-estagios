@@ -41,9 +41,11 @@ Página desenvolvida para **divulgação temporária de oportunidades de estági
 📁 nexa-estagios
 ├── 📁 assets
 │   ├── 📂 docs     # Documentos do projeto
-│   ├── 📂 img      # Imagens do projeto
+│   └── 📂 img      # Imagens do projeto
 ├── style.css        # Código CSS para estilização
 ├── index.html       # Página principal do site
+├── style.min.css    # Código CSS minificado para distribuição
+├── LICENSE          #Licença
 └── README.md        # Documentação
 
 ```
