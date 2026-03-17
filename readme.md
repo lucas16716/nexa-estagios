@@ -1,83 +1,70 @@
-<h1 align="center">Programa de Estágios • Nexa 💼</h1>
+<div align="center">
 
-<div>
-  
-[![License](https://img.shields.io/badge/Licença-MIT-blue)](./LICENSE)&nbsp;&nbsp;
-[![Status](https://img.shields.io/badge/Status-Finalizado-orange)]()
+# Programa de Estágios • Nexa
+
+**Página estratégica para divulgação de estágios em eventos de empregabilidade**
+
+*Desenvolvido em colaboração com Larissa Nunes para uma feira de carreiras*
+
+[![Status](https://img.shields.io/badge/status-concluído-e8e4de?style=flat-square&labelColor=3437e6&color=1c1b2e)]()&nbsp;
+[![Finalidade](https://img.shields.io/badge/finalidade-projeto%20autoral-e8e4de?style=flat-square&labelColor=orange&color=1c1b2e)]()&nbsp;
+[![Licença](https://img.shields.io/badge/licença-MIT-e8e4de?style=flat-square&labelColor=ef4444&color=1c1b2e)](./LICENSE)
+
 </div>
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias-e-ferramentas">Tecnologias e Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#estruturação-do-projeto">Guia Repositório</a>
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#estrutura">Estrutura</a>
 </p>
 
 <h2 id="projeto">PROJETO</h2>
 
-Página desenvolvida para **divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade**. O objetivo é atrair candidatos para vagas remanescentes, oferecendo um **guia claro e prático sobre as oportunidades e facilitando o cadastro via formulário**, agilizando a captação inicial. Foco em acessibilidade e clareza para todos os públicos.
+Página desenvolvida para divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade. O objetivo é atrair candidatos para vagas remanescentes, facilitando o acesso dos visitantes às oportunidades diretamente pelo celular — via QR Code distribuído no evento, agilizando a captação inicial.
 
-🌐 <a href="https://estagiosnexa.vercel.app/">Acesse o site</a>
+O objetivo foi entregar uma solução rápida, clara e acessível: uma página objetiva com apresentação da empresa, link para o PDF de vagas e acesso ao formulário de inscrição.
+
+🌐 [Acesse o site](https://estagiosnexa.vercel.app/)
 
 <h2 id="funcionalidades">FUNCIONALIDADES</h2>
 
-- 📢 Texto de apresentação claro sobre o programa de estágios;
-- 🔗 Links diretos para PDF de vagas e formulário de interesse;
-- 💡 Design simples e direto para facilitar a navegação rápida;
-- 📱 Layout responsivo adaptado a todos os dispositivos.
+- **Apresentação da empresa** — introdução à cultura e ao programa de estágios da Nexa
+- **Links diretos** — acesso ao PDF de vagas e ao formulário de inscrição via Google Forms
+- **Acesso por QR Code** — página otimizada para abertura rápida pelo celular no evento
+- **Layout responsivo** — interface adaptada para todos os dispositivos
 
-<h2 id="tecnologias-e-ferramentas">TECNOLOGIAS E FERRAMENTAS</h2>
+<h2 id="tecnologias">TECNOLOGIAS</h2>
 
-- **HTML5 →** Estrutura semântica e acessível;
-- **CSS3 →** Estilização visual, animações sutis e responsividade (com Variáveis e BEM);
-- **Git/GitHub →** Controle de versionamento e hospedagem do código-fonte;
-- **Vercel →** Plataforma de deploy contínuo.
+| Tecnologia | Uso |
+|---|---|
+| HTML5 | Estrutura semântica e acessível |
+| CSS3 | Estilos, animações sutis e responsividade |
+| Git/Github | DVersionamento de código |
+| Vercel | Deploy do projeto |
+
+<h2 id="estrutura">ESTRUTURA</h2>
+
+```
+nexa-estagios/
+├── assets/
+│   ├── docs/        → Documentos do projeto
+│   └── img/         → Imagens do projeto
+├── index.html       → Página principal
+├── style.css        → Estilos
+├── style.min.css    → CSS minificado para produção
+├── LICENSE
+└── README.md
+```
 
 ---
 
-<h2 id="estruturação-do-projeto">ESTRUTURA DO PROJETO</h2>
+<h2>LICENÇA</h2>
 
-```bash
-📁 nexa-estagios
-├── 📁 assets
-│   ├── 📂 docs     # Documentos do projeto
-│   └── 📂 img      # Imagens do projeto
-├── style.css        # Código CSS para estilização
-├── index.html       # Página principal do site
-├── style.min.css    # Código CSS minificado para distribuição
-├── LICENSE          #Licença
-└── README.md        # Documentação
+Este projeto está licenciado sob a licença MIT.
+Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
-```
+<h2>AUTOR</h2>
 
-<h2>CLONAR O REPOSITÓRIO</h2>
-
-1. Clone este repositório no seu computador:
-
-```
-git clone https://github.com/lucas16716/nexa-estagios.git
-```
-
-2. Abra o arquivo `index.html` no seu navegador:
-
-```
-cd nexa-estagios
-open index.html
-```
-
-<h2>CONTRIBUIÇÃO</h2>
-<h4>Contribuições e melhorias são sempre bem-vindas! 🤝</h4>
-
-1. Faça um _fork_;
-2. Crie uma nova _branch_ (`git checkout -b minha-feature`);
-3. Faça _commit_ das alterações (`git commit -m 'Minha contribuição!'`);
-4. Faça _push_ para a branch (`git push origin minha-feature`);
-5. Abra um _Pull Request_.
-
----
-
-<h2>📄 LICENÇA</h2>
-<p>Este projeto está licenciado sob a licença MIT. Confira os detalhes na documentação oficial.</p>
-
-<h2>🧑🏻‍💻 AUTOR</h2> 
-<p>Desenvolvido por <a href="https://bio.site/lucascode">Lucas Code</a> como colaboração para a participação da Nexa em eventos de empregabilidade</p>
+Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucas-coutoti).  
+Conheça meu trabalho em [Lucas Code](https://bio.site/lucascode).
