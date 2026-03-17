@@ -2,7 +2,7 @@
 
 # Programa de Estágios • Nexa
 
-**Página estratégica para divulgação de estágios em eventos de empregabilidade**
+**Hotsite para divulgação de estágios em eventos de empregabilidade**
 
 *Desenvolvido em colaboração com Larissa Nunes para uma feira de carreiras*
 
@@ -21,9 +21,7 @@
 
 <h2 id="projeto">PROJETO</h2>
 
-Página desenvolvida para divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade. O objetivo é atrair candidatos para vagas remanescentes, facilitando o acesso dos visitantes às oportunidades diretamente pelo celular — via QR Code distribuído no evento, agilizando a captação inicial.
-
-O objetivo foi entregar uma solução rápida, clara e acessível: uma página objetiva com apresentação da empresa, link para o PDF de vagas e acesso ao formulário de inscrição.
+Página desenvolvida para divulgação temporária de oportunidades de estágio da Nexa durante eventos de empregabilidade. O objetivo foi entregar uma solução rápida, clara e acessível, atraindo candidatos para vagas remanescentes e facilitando o acesso às oportunidades diretamente pelo celular — via QR Code distribuído no evento.
 
 🌐 [Acesse o site](https://estagiosnexa.vercel.app/)
 
@@ -40,7 +38,7 @@ O objetivo foi entregar uma solução rápida, clara e acessível: uma página o
 |---|---|
 | HTML5 | Estrutura semântica e acessível |
 | CSS3 | Estilos, animações sutis e responsividade |
-| Git/Github | DVersionamento de código |
+| Git/Github | Versionamento de código |
 | Vercel | Deploy do projeto |
 
 <h2 id="estrutura">ESTRUTURA</h2>
